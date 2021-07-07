@@ -8,7 +8,7 @@ You have several choices for the programming language that you use for building 
 
 Key Topics
 
-Command-line basics
-loading file using Pandas
-Feature Engineering
-Data analysing
+Command-line basics,
+loading file using Pandas,
+Feature Engineering,
+Data analysing,
